@@ -151,12 +151,3 @@ No backend code is included. Point `src/api/utils.js` at a live Westside Market 
 4. Parameterize the Sentry DSN and API domain via `.env` or `react-native-config`.
 5. Build end-to-end tests (Detox or similar) covering the scanner/watchlist flows.
 
-## 22. Contribution Guidelines
-1. Branch from `main`/`master` per team policy.
-2. Name branches descriptively (e.g., `feature/scan-history`).
-3. Run `yarn lint` and `yarn test` before pushing; resolve lint/test failures.
-4. Document new screens/APIs in this README or a new markdown file.
-5. Open a PR with a summary, validation steps (install/run/test), and permissions requested.
-
-## 23. License
-No license file exists. Add an appropriate one (MIT, Apache 2.0, etc.) once the project owner decides.
