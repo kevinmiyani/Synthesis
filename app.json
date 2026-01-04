@@ -1,0 +1,14 @@
+{
+  "name": "Synthesis",
+  "displayName": "Synthesis",
+  "expo": {
+    "plugins": [
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access camera."
+        }
+      ]
+    ]
+  }
+}

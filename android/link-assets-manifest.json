@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MavenPro-Black.ttf",
+      "sha1": "bc43d3a0c3ac816b573bf1fd3c958848a3526ff5"
+    },
+    {
+      "path": "src/assets/fonts/MavenPro-Bold.ttf",
+      "sha1": "e112d0315bbab5dc829033602cf8d7e4a0fe8a7d"
+    },
+    {
+      "path": "src/assets/fonts/MavenPro-ExtraBold.ttf",
+      "sha1": "2f5254429ae0da798265d414cd7a0fa71509b47b"
+    },
+    {
+      "path": "src/assets/fonts/MavenPro-Medium.ttf",
+      "sha1": "0e503f4d5734515797884570b6b0dd8cd7c1ee7f"
+    },
+    {
+      "path": "src/assets/fonts/MavenPro-Regular.ttf",
+      "sha1": "537335c928145ab1f956ef515c08466d8ac7be10"
+    },
+    {
+      "path": "src/assets/fonts/MavenPro-SemiBold.ttf",
+      "sha1": "dedcaec72990454a4547f488140c8dc40b1b2633"
+    }
+  ]
+}
